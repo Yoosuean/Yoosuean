@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoosuean&count_bg=%23CCCCCC&title_bg=%23AF8AC6&icon=github.svg&icon_color=%23FFFFFF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **Yoosuean/Yoosuean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Interest 👀
+- Android 

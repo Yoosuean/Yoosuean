@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## Interest 👀
 - Flutter
 - Cpp
-- Python
+- Big Data
